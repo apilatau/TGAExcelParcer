@@ -1,0 +1,24 @@
+public void Preatretment()
+        {
+            int i = 13;
+            int j = 4;
+            double value = 0;
+            string stvalue = "";
+            Microsoft.Office.Interop.Excel.Range range;
+
+            do
+            {
+                i++;
+                for( j = 4; j < 6; j++)
+                {
+                    //value = ObjWorkSheet.Cells[i, j];
+                    range = ObjWorkSheet.get_Range("D" + i.ToString(), "D" + i.ToString());//.Cells[i, j];
+                    stvalue = range.Text.ToString();
+                    c
+                }
+
+                //Удаляем приложение (выходим из экселя) - ато будет висеть в процессах!           
+            }
+            while (stvalue != "");
+            ObjExcel.Quit();
+        }

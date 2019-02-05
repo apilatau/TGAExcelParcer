@@ -1,0 +1,175 @@
+D:\VSProject\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+c:\Users\Sasha\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+c:\Users\Sasha\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+c:\Users\Sasha\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.dll
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.xml
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.ResolveComReference.cache
+D:\VSProject\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.ResolveComReference.cache
+D:\VSProject\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\VSProject\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\VSProject\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\VSProject\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\VSProject\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.dll
+D:\VSProject\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.dll
+D:\VSProject\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.xml
+D:\VSProject\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.xml
+D:\VSProject\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+D:\VSProject\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\VSProject\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\VSProject\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.ResolveComReference.cache
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.dll
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.xml
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\VSProject\V\v2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\VSProject\V\v2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.ResolveComReference.cache
+D:\VSProject\V\v2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\VSProject\V\v2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\VSProject\V\v2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\VSProject\V\v2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\VSProject\V\v2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.dll
+D:\VSProject\V\v2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.dll
+D:\VSProject\V\v2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.xml
+D:\VSProject\V\v2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.xml
+D:\VSProject\V\v2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+D:\VSProject\V\v2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\VSProject\V\v2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\VSProject\V\v2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\VSProject\V\v2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Migrations.AddTGAMigration.resources
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v4\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v4\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.ResolveComReference.cache
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v4\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v4\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\VSProject\V\v5\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\VSProject\V\v5\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.ResolveComReference.cache
+D:\VSProject\V\v5\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\VSProject\V\v5\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\VSProject\V\v5\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\VSProject\V\v5\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Migrations.AddTGAMigration.resources
+D:\VSProject\V\v5\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\VSProject\V\v5\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\VSProject\V\v5\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\VSProject\V\v5\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\VSProject\V\v5\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.dll
+D:\VSProject\V\v5\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.dll
+D:\VSProject\V\v5\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.xml
+D:\VSProject\V\v5\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.1\v5\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.1\v5\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.ResolveComReference.cache
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.1\v5\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.1\v5\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.1\v5\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.1\v5\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.1\v5\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Migrations.AddTGAMigration.resources
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.1\v5\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.1\v5\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.1\v5\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.1\v5\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.1\v5\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.dll
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.1\v5\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.1\v5\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.xml
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.1\v5\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.1\v5\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.OpenDB.resources
+D:\VSProject\V\v5\v5.2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\VSProject\V\v5\v5.2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.ResolveComReference.cache
+D:\VSProject\V\v5\v5.2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\VSProject\V\v5\v5.2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\VSProject\V\v5\v5.2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\VSProject\V\v5\v5.2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\VSProject\V\v5\v5.2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.dll
+D:\VSProject\V\v5\v5.2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.dll
+D:\VSProject\V\v5\v5.2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.xml
+D:\VSProject\V\v5\v5.2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.xml
+D:\VSProject\V\v5\v5.2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\VSProject\V\v5\v5.2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Migrations.AddTGAMigration.resources
+D:\VSProject\V\v5\v5.2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.OpenDB.resources
+D:\VSProject\V\v5\v5.2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\VSProject\V\v5\v5.2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.ResolveComReference.cache
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.1\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.1\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.ResolveComReference.cache
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.1\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.1\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.1\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.1\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Migrations.AddTGAMigration.resources
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.1\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.OpenDB.resources
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.1\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.1\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.1\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.1\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.1\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.dll
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.1\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.1\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.xml
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.1\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.1\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.3\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.3\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.ResolveComReference.cache
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.3\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.3\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.3\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.3\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.3\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.dll
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.3\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.3\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.xml
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.3\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.3\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.3\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Migrations.AddTGAMigration.resources
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.3\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.OpenDB.resources
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.3\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.3\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.4\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.4\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.ResolveComReference.cache
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.4\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.4\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.4\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.4\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.4\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.dll
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.4\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.4\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.xml
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.4\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.4\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.4\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Migrations.AddTGAMigration.resources
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.4\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.OpenDB.resources
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.4\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.4\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.4\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.4\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Loading.resources
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.5\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.5\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.ResolveComReference.cache
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.5\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.5\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.5\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.5\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.5\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.dll
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.5\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.5\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.xml
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.5\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.5\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.5\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.5\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Loading.resources
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.5\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Migrations.AddTGAMigration.resources
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.5\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.OpenDB.resources
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.5\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\BRISK\v5\v5.3.5\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
